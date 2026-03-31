@@ -12,3 +12,4 @@
  Mapeamento de estados com maior índice de atraso logístico, sugerindo a necessidade de novos parceiros de frete nessas regiões.
  Como isso conecta com meu perfil?
  Este projeto demonstra minha capacidade de aplicar na prática os conceitos de Business Intelligence e Análise de Dados que utilizo diariamente na Volkswagen do Brasil , unindo o conhecimento técnico de ferramentas à visão estratégica de negócios adquirida na FAE Business School.
+![Home do Dashboard](image.png)
