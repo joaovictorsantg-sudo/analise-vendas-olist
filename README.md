@@ -13,3 +13,7 @@
  Como isso conecta com meu perfil?
  Este projeto demonstra minha capacidade de aplicar na prática os conceitos de Business Intelligence e Análise de Dados que utilizo diariamente na Volkswagen do Brasil , unindo o conhecimento técnico de ferramentas à visão estratégica de negócios adquirida na FAE Business School.
 
+ Visualização do Dashboard
+![Home do Dashboard](CAPADASH1.png)
+![Análise Regional](IMAGEMDASH2.png)
+![Performance de Produtos](IMAGEM3.DASH.png)
