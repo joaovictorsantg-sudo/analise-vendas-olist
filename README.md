@@ -15,5 +15,5 @@
 
  Visualização do Dashboard
 ![Home do Dashboard](CAPADASH1.png)
-![Análise Regional](IMAGEMDASH2.png)
+![Análise Regional](IMAGEM2DASH.png)
 ![Performance de Produtos](IMAGEM3.DASH.png)
